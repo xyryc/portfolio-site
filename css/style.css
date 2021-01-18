@@ -300,7 +300,7 @@ section{
 }
 
 .c++:after{
-    width: 70%;    
+    width: 80%;    
 }
 
 .c#:after{
@@ -308,7 +308,7 @@ section{
 }
 
 .python:after{
-    width: 0%;    
+    width: 60%;    
 }
 
 section.distraction{
