@@ -128,7 +128,7 @@ html{
 }
 
 #home .content h1::after{
-    content: "Lil Distraction";
+    content: "Dusk";
     animation: textanim 10s linear infinite;
 }
 
