@@ -128,7 +128,7 @@ html{
 }
 
 #home .content h1::after{
-    content: "Lil Distraction";
+    content: "Dusk";
     animation: textanim 10s linear infinite;
 }
 
@@ -137,10 +137,10 @@ html{
         content: "A Developer";
     }
     50%{
-        content: "A YouTuber";
+        content: "A Stupid";
     }
     75%{
-        content: "A Gamer";
+        content: "A Redundant";
     }
 }
 
