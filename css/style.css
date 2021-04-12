@@ -134,13 +134,13 @@ html{
 
 @keyframes textanim{
     25%{
-        content: "A Developer";
+        content: "A Stupid";
     }
     50%{
-        content: "A YouTuber";
+        content: "A Developer";
     }
     75%{
-        content: "A Gamer";
+        content: "A Redundant";
     }
 }
 
