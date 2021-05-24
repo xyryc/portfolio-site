@@ -6,7 +6,7 @@
     box-sizing: border-box;
 }
 
-html{
+html {
     scroll-behavior: smooth;
 }
 
@@ -77,7 +77,7 @@ html{
     font-size: 15px;
     font-weight: 500;
     margin-left: 30px;
-    transition: 0.2 linear;
+    transition: 0.2s linear;
 }
 
 .navbar-menu a:hover{
@@ -137,10 +137,10 @@ html{
         content: "A Developer";
     }
     50%{
-        content: "A Stupid";
+        content: "A Programmer";
     }
     75%{
-        content: "A Redundant";
+        content: "A Gamer";
     }
 }
 
@@ -148,7 +148,7 @@ html{
     color: #fff;
     font-size: 22px;
     margin: 0 10px;
-    transition: 0.2 linear;
+    transition: 0.2s linear;
 }
 
 .sm a:hover{
@@ -304,11 +304,11 @@ section{
 }
 
 .cs:after{
-    width: 60%;    
+    width: 70%;    
 }
 
 .python:after{
-    width: 60%;    
+    width: 70%;    
 }
 
 section.distraction{
