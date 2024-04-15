@@ -128,19 +128,19 @@ html {
 }
 
 #home .content h1::after{
-    content: "Dusk";
+    content: "Anik";
     animation: textanim 10s linear infinite;
 }
 
 @keyframes textanim{
     25%{
-        content: "A Developer";
-    }
-    50%{
         content: "A Programmer";
     }
+    50%{
+        content: "A Developer";
+    }
     75%{
-        content: "A Gamer";
+        content: "A Tech Enthusiast";
     }
 }
 
@@ -287,28 +287,28 @@ section{
     bottom: 0;
 }
 
-.html:after{
-    width: 70%;  
+.skillOne:after{
+    width: 90%;  
 }
 
-.css:after{
-    width: 70%;    
-}
-
-.c:after{
-    width: 90%;    
-}
-
-.cpp:after{
+.skillTwo:after{
     width: 80%;    
 }
 
-.cs:after{
-    width: 70%;    
+.skillThree:after{
+    width: 90%;    
 }
 
-.python:after{
-    width: 70%;    
+.skillFour:after{
+    width: 90%;    
+}
+
+.skillFive:after{
+    width: 80%;    
+}
+
+.skillSix:after{
+    width: 80%;    
 }
 
 section.distraction{
@@ -424,7 +424,7 @@ section.distraction .section-title::after{
 .work img{
     width: 100%;
     height: 100%;
-    transition: .4s linear;
+    transition: 1s linear;
 }
 
 .work::before{
@@ -450,13 +450,13 @@ section.distraction .section-title::after{
 }
 
 .work:hover img{
-    transform: scale(1.6) rotate(25deg);
+    transform: scale(1.1) rotate(3deg);
 }
 
 .work:hover::before,
 .work:hover .info
 {
-    opacity: 1;
+    opacity: 0.7;
     transform: scale(1);
 }
 
