@@ -46,10 +46,10 @@ html {
 }
 
 .logo{
-    width: 44px;
-    height: 32px;
-    background-image: url(../images/white-logo.png);
-    background-size: contain;
+    width: 25px;
+    height: 25px;
+    background-image: url(../images/peace_symbol_white.png);
+    background-size: cover;
 }
 
 .menu-toggler{
@@ -90,7 +90,7 @@ html {
 }
 
 .sticky .logo{
-    background-image: url(../images/black-logo.png);
+    background-image: url(../images/peace_symbol_black.png);
 }
 
 .sticky .navbar-menu a{
